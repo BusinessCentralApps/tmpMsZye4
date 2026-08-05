@@ -1,8 +1,9 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/38f971084e949653850a8bba31c7a94ab31a0a7c/.Modules/settings.schema.json",
   "doNotPublishApps": true,
   "type": "PTE",
   "templateUrl": "https://github.com/businesscentralapps/tmpINFlEd-PTE@main",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/38f971084e949653850a8bba31c7a94ab31a0a7c/.Modules/settings.schema.json",
   "useCompilerFolder": true,
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "e50e51fb9a7feebf8d93949a17a3107433ae6367"
 }
